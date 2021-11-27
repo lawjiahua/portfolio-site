@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.273bc037.chunk.css",
+    "main.js": "/portfolio-site/static/js/main.1774176e.chunk.js",
+    "main.js.map": "/portfolio-site/static/js/main.1774176e.chunk.js.map",
+    "runtime-main.js": "/portfolio-site/static/js/runtime-main.94164c81.js",
+    "runtime-main.js.map": "/portfolio-site/static/js/runtime-main.94164c81.js.map",
+    "static/css/2.09ef058d.chunk.css": "/portfolio-site/static/css/2.09ef058d.chunk.css",
+    "static/js/2.b8f62590.chunk.js": "/portfolio-site/static/js/2.b8f62590.chunk.js",
+    "static/js/2.b8f62590.chunk.js.map": "/portfolio-site/static/js/2.b8f62590.chunk.js.map",
+    "static/js/3.b3183519.chunk.js": "/portfolio-site/static/js/3.b3183519.chunk.js",
+    "static/js/3.b3183519.chunk.js.map": "/portfolio-site/static/js/3.b3183519.chunk.js.map",
+    "index.html": "/portfolio-site/index.html",
+    "static/css/2.09ef058d.chunk.css.map": "/portfolio-site/static/css/2.09ef058d.chunk.css.map",
+    "static/css/main.273bc037.chunk.css.map": "/portfolio-site/static/css/main.273bc037.chunk.css.map",
+    "static/js/2.b8f62590.chunk.js.LICENSE.txt": "/portfolio-site/static/js/2.b8f62590.chunk.js.LICENSE.txt",
+    "static/media/42race.278a9fa4.png": "/portfolio-site/static/media/42race.278a9fa4.png",
+    "static/media/avatar.5fbb689b.png": "/portfolio-site/static/media/avatar.5fbb689b.png",
+    "static/media/brand.a6084a78.png": "/portfolio-site/static/media/brand.a6084a78.png",
+    "static/media/design.b0eb4a8e.png": "/portfolio-site/static/media/design.b0eb4a8e.png",
+    "static/media/formalpic.0a504d0a.jpg": "/portfolio-site/static/media/formalpic.0a504d0a.jpg",
+    "static/media/jh_resume.83d3ee57.pdf": "/portfolio-site/static/media/jh_resume.83d3ee57.pdf",
+    "static/media/product.781cfa37.png": "/portfolio-site/static/media/product.781cfa37.png",
+    "static/media/profilepic.b2111f46.png": "/portfolio-site/static/media/profilepic.b2111f46.png",
+    "static/media/programme.dc1af98c.png": "/portfolio-site/static/media/programme.dc1af98c.png",
+    "static/media/ureg.4f0bfe7d.png": "/portfolio-site/static/media/ureg.4f0bfe7d.png",
+    "static/media/yada.fe23c47e.png": "/portfolio-site/static/media/yada.fe23c47e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94164c81.js",
+    "static/css/2.09ef058d.chunk.css",
+    "static/js/2.b8f62590.chunk.js",
+    "static/css/main.273bc037.chunk.css",
+    "static/js/main.1774176e.chunk.js"
+  ]
+}
